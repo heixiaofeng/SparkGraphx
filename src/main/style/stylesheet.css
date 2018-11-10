@@ -1,0 +1,25 @@
+node {
+    fill-color: #a1d99b;
+    size: 20px;
+    text-size: 12;
+    text-alignment: at-right;
+    text-padding: 2;
+    text-background-color: #fff7bc;
+}
+node #liudehua{
+    fill-color: red;
+    size: 20px;
+    text-size: 12;
+    text-alignment: at-right;
+    text-padding: 2;
+    text-background-color: #fff7bc;
+}
+
+edge {
+    shape: line;
+    fill-color: pink;
+    text-background-mode: rounded-box;
+    text-background-color: #fff7bc;
+    text-alignment: above;
+    text-padding: 2;
+}
